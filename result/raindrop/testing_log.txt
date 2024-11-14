@@ -1,0 +1,3 @@
+name('/public/lay/transweather/data/test_a/test_a/input/0_rain.png',), PSNR=[30.658773602354827], SSIM=[0.9663922520102723]
+name('/public/lay/transweather/data/test_a/test_a/input/10_rain.png',), PSNR=[29.12985802539254], SSIM=[0.9767117705042127]
+name('/public/lay/transweather/data/test_a/test_a/input/11_rain.png',), PSNR=[29.07506141652808], SSIM=[0.9665511107162287]

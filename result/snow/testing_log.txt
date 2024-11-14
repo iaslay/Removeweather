@@ -1,0 +1,4 @@
+name('/public/lay/transweather/data/snow/snow/input/beautiful_smile_00003.jpg',), PSNR=[28.932917351026184], SSIM=[0.9501148546988686]
+name('/public/lay/transweather/data/snow/snow/input/beautiful_smile_00007.jpg',), PSNR=[26.1559168849367], SSIM=[0.9385883570222593]
+name('/public/lay/transweather/data/snow/snow/input/beautiful_smile_00010.jpg',), PSNR=[27.556166430920037], SSIM=[0.9428160951650022]
+name('/public/lay/transweather/data/snow/snow/input/beautiful_smile_00016.jpg',), PSNR=[28.07049578764403], SSIM=[0.9437990952207875]

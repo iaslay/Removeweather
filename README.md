@@ -96,3 +96,9 @@ python test.py --device_idx <device_idx> --checkpoint <checkpoint>
 python test1.py --device_idx <device_idx> --checkpoint <checkpoint> 
 python test_snow.py --device_idx <device_idx> --checkpoint <checkpoint>  
 ```
+
+### **Pretrained Models**
+
+---
+
+Download pretrained models from [here](https://drive.google.com/file/d/1p-0lPdcsgwUQ5SgNBQsXjGgdMO2lLAd1/view?usp=sharing) and put them in folder `save_data/`
